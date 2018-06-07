@@ -1,2 +1,6 @@
 # laughing-disco
 It's just a Hello World to get started with...
+
+And now it has a feature as defined in ISSUE1234 ...
+
+Should not cause any conflict
